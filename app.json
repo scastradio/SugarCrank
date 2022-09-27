@@ -1,0 +1,23 @@
+[
+  {
+    "name": "phase 1",
+    "config": "config1.json",
+    "hour": 14,
+    "minute": 13,
+    "second": 0
+  },
+  {
+    "name": "phase 2",
+    "config": "config2.json",
+    "hour": 14,
+    "minute": 13,
+    "second": 30
+  },
+  {
+    "name": "phase 3",
+    "config": "config3.json",
+    "hour": 14,
+    "minute": 13,
+    "second": 40
+  }
+]
